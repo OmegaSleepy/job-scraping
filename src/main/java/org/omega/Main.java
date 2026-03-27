@@ -1,4 +1,4 @@
-package org.example;
+package org.omega;
 
 import com.google.gson.Gson;
 import org.jsoup.Connection;
