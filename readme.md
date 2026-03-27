@@ -19,11 +19,11 @@ I analyzed the distribution of roles to see which industries dominate the curren
 
 | Job Categories | Job Locations |
 | :---: | :---: |
-| ![Job Categories](plots/Job_Categories.png) | ![Job Locations](plots/Job_Locations.png) |
+| ![Job Categories](plots/Job_Distribution_By_Category.png) | ![Job Locations](plots/Job_Distribution_By_Location.png) |
 
 ### Most In-Demand Skills (Overall)
 This chart represents the frequency of skill mentions across the entire dataset, regardless of the specific job category.
-![Top Skills Overall](plots/Top_Skills.png)
+![Top Skills Overall](plots/Top_Skills_Required.png)
 
 ---
 
@@ -31,23 +31,23 @@ This chart represents the frequency of skill mentions across the entire dataset,
 The core of this research breaks down the "Top Skills" required for specific career paths. Below are the visual breakdowns for each major industry sector:
 
 ### Development & Software Engineering
-* **Full Stack Development:** ![Full Stack](plots_by_category/Top_Skills_-_full_stack_development.png)
-* **Back-End Development:** ![Back End](plots_by_category/Top_Skills_-_back_end_development.png)
-* **Front-End Development:** ![Front End](plots_by_category/Top_Skills_-_front_end_development.png)
-* **Mobile Development:** ![Mobile](plots_by_category/Top_Skills_-_mobile_development.png)
-* **Hardware & Engineering:** ![Hardware](plots_by_category/Top_Skills_-_hardware_and_engineering.png)
+* **Full Stack Development:** ![Full Stack](plots_by_category/Top_Skills_For_full_stack_development.png)
+* **Back-End Development:** ![Back End](plots_by_category/Top_Skills_For_back_end_development.png)
+* **Front-End Development:** ![Front End](plots_by_category/Top_Skills_For_front_end_development.png)
+* **Mobile Development:** ![Mobile](plots_by_category/Top_Skills_For_mobile_development.png)
+* **Hardware & Engineering:** ![Hardware](plots_by_category/Top_Skills_For_hardware_and_engineering.png)
 
 ### Data, Design & Specialized Tech
-* **Data Science:** ![Data Science](plots_by_category/Top_Skills_-_data_science.png)
-* **UI/UX & Arts:** ![UI/UX](plots_by_category/Top_Skills_-_ui_ux_and_arts.png)
-* **ERP/CRM Development:** ![ERP/CRM](plots_by_category/Top_Skills_-_erp_crm_development.png)
+* **Data Science:** ![Data Science](plots_by_category/Top_Skills_For_data_science.png)
+* **UI/UX & Arts:** ![UI/UX](plots_by_category/Top_Skills_For_ui_ux_and_arts.png)
+* **ERP/CRM Development:** ![ERP/CRM](plots_by_category/Top_Skills_For_erp_crm_development.png)
 
 ### Operations & Support
-* **Operations:** ![Operations](plots_by_category/Top_Skills_-_operations.png)
-* **Quality Assurance:** ![QA](plots_by_category/Top_Skills_-_quality_assurance.png)
-* **Technical Support:** ![Tech Support](plots_by_category/Top_Skills_-_technical_support.png)
-* **Customer Support:** ![Customer Support](plots_by_category/Top_Skills_-_customer_support.png)
-* **PM, BA & More:** ![Project Management](plots_by_category/Top_Skills_-_pm_ba_and_more.png)
+* **Operations:** ![Operations](plots_by_category/Top_Skills_For_operations.png)
+* **Quality Assurance:** ![QA](plots_by_category/Top_Skills_For_quality_assurance.png)
+* **Technical Support:** ![Tech Support](plots_by_category/Top_Skills_For_technical_support.png)
+* **Customer Support:** ![Customer Support](plots_by_category/Top_Skills_For_customer_support.png)
+* **PM, BA & More:** ![Project Management](plots_by_category/Top_Skills_For_pm_ba_and_more.png)
 
 ---
 
