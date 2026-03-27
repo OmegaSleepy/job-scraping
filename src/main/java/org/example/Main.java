@@ -30,8 +30,7 @@ public class Main {
             "https://dev.bg/company/jobs/hardware-and-engineering/",
             "https://dev.bg/company/jobs/customer-support/",
             "https://dev.bg/company/jobs/technical-support/",
-            "https://dev.bg/company/jobs/ui-ux-and-arts/"
-            );
+            "https://dev.bg/company/jobs/ui-ux-and-arts/");
 
     public static String categoryName(String categoryUrl) {
         String[] split = categoryUrl.split("/");
