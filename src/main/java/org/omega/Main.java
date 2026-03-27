@@ -17,20 +17,7 @@ import java.util.stream.Collectors;
 
 public class Main {
 
-    public static final List<String> CATEGORIES = List.of(
-            "https://dev.bg/company/jobs/back-end-development/",
-            "https://dev.bg/company/jobs/front-end-development/",
-            "https://dev.bg/company/jobs/full-stack-development/",
-            "https://dev.bg/company/jobs/quality-assurance/",
-            "https://dev.bg/company/jobs/operations/",
-            "https://dev.bg/company/jobs/pm-ba-and-more/",
-            "https://dev.bg/company/jobs/erp-crm-development/",
-            "https://dev.bg/company/jobs/data-science/",
-            "https://dev.bg/company/jobs/mobile-development/",
-            "https://dev.bg/company/jobs/hardware-and-engineering/",
-            "https://dev.bg/company/jobs/customer-support/",
-            "https://dev.bg/company/jobs/technical-support/",
-            "https://dev.bg/company/jobs/ui-ux-and-arts/");
+    public static final List<String> CATEGORIES = List.of();
 
     public static String categoryName(String categoryUrl) {
         String[] split = categoryUrl.split("/");
