@@ -1,0 +1,89 @@
+[
+  {
+    "category": "Software Development",
+    "companyName": "PAYSLIP EOOD",
+    "position": "language Software Implementation Consultant",
+    "location": "Варна",
+    "req": [
+      "jira"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8257002"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Hewlett-Packard Global Delivery Bulgaria Center EOOD",
+    "position": "language Tech Center Technology Consultant with German",
+    "location": "София",
+    "req": [
+      "windows",
+      "linux"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8309628"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Hewlett-Packard Global Delivery Bulgaria Center EOOD",
+    "position": "language Tech Center Technology Consultant with French",
+    "location": "София",
+    "req": [
+      "windows",
+      "linux"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8309630"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SUSE SOFTWARE SOLUTIONS UK LTD",
+    "position": "language Premium Support Engineer - Linux/K8s/German speaking",
+    "location": "Fully Remote",
+    "req": [
+      "linux",
+      "docker",
+      "kubernetes"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8307465"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "IBM Bulgaria Ltd.",
+    "position": "language Operations Coordinator (with Dutch)",
+    "location": "София",
+    "req": [
+      "ibm cloud"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8302589"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "СОФТСЪРВ БЪЛГАРИЯ ЕООД",
+    "position": "language Revenue Cloud Consultant",
+    "location": "Fully Remote",
+    "req": [
+      "salesforce",
+      "sap"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8269257"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "emerchantpay ood",
+    "position": "language Senior Technical Support Engineer",
+    "location": "София",
+    "req": [
+      "html",
+      "css",
+      "javascript",
+      "excel",
+      "php",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/6036353"
+  }
+]

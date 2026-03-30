@@ -1,0 +1,3130 @@
+[
+  {
+    "category": "Software Development",
+    "companyName": "Пей флай ЕООД",
+    "position": "Python програмист",
+    "location": "София",
+    "req": [
+      "python",
+      "flask",
+      "linux",
+      "pytorch",
+      "tensorflow",
+      "keras",
+      "html",
+      "css",
+      "javascript",
+      "sql",
+      "postgres"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8382830"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ORIONONE Ltd.",
+    "position": "Senior Front End Developer (Angular)",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "angular",
+      "javascript",
+      "html",
+      "css",
+      "bootstrap"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8379869"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "УИНЪР ГЕЙМС ЕООД",
+    "position": "Games Developers - iGaming",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "typescript",
+      "photoshop",
+      "creative cloud"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8379556"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ИМПЕРИЯ ОНЛАЙН ЕАД",
+    "position": "Senior JavaScript Developer",
+    "location": "София",
+    "req": [
+      "english",
+      "javascript",
+      "html",
+      "css",
+      "react",
+      "angular",
+      "vue.js",
+      "node",
+      "express.js",
+      "typescript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8378075"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ТЕСТИНГ СЪРВИС ЕООД",
+    "position": "QA Game Tester",
+    "location": "София",
+    "req": [
+      "jira",
+      "java",
+      "javascript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8363590"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Глобъл Гейминг Технолоджи ООД",
+    "position": "Front-End Developer",
+    "location": "София",
+    "req": [
+      "angular",
+      "html",
+      "css",
+      "typescript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8374657"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "КРЕДИТ ТРЪСТ АД",
+    "position": "WordPress / PHP разработчик",
+    "location": "София",
+    "req": [
+      "wordpress",
+      "php",
+      "html",
+      "css",
+      "javascript",
+      "jquery",
+      "mysql",
+      "sql",
+      "yii",
+      "linux"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8375447"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SiteGround Hosting EOOD",
+    "position": "Front-End Engineer (TypeScript and React)",
+    "location": "София",
+    "req": [
+      "english",
+      "typescript",
+      "react",
+      "html",
+      "css",
+      "javascript",
+      "node",
+      "jenkins"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8373762"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SiteGround Hosting EOOD",
+    "position": "Senior Front-End Developer",
+    "location": "Fully Remote",
+    "req": [
+      "html",
+      "css",
+      "javascript",
+      "react",
+      "node",
+      "jenkins"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8373765"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "НЕКСТ ЛОДЖИСТИКС ЕООД",
+    "position": "Front-End Developer",
+    "location": "Пловдив",
+    "req": [
+      "react",
+      "javascript",
+      "html",
+      "css",
+      "laravel"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8370791"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "eder Sofia GmbH",
+    "position": "WEB DEVELOPER - Generalist (automotive)",
+    "location": "София",
+    "req": [
+      "english",
+      "javascript",
+      "python",
+      "react",
+      "django",
+      "flask",
+      "mysql",
+      "sql",
+      "mongodb",
+      "nosql",
+      "aws",
+      "unreal",
+      "docker"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8371822"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "УНИКА Груп клон България КЧТ",
+    "position": "Java Developer",
+    "location": "Пловдив",
+    "req": [
+      "java",
+      "html",
+      "css",
+      "javascript",
+      "spring",
+      "react",
+      "typescript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8370001"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "БАЛЕВ КОРПОРЕЙШЪН ЕООД",
+    "position": "Front-End Developer",
+    "location": "Варна",
+    "req": [
+      "javascript",
+      "react",
+      "typescript",
+      "reactnative",
+      "bootstrap"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8362081"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Husky Lizenzentwicklungs- und verwertung OOD",
+    "position": "Test Automation Engineer with German",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "german",
+      "typescript",
+      "javascript",
+      "html",
+      "css"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8366548"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "MM FINTECH EOOD",
+    "position": "Product Manager – Fintech",
+    "location": "София",
+    "req": [
+      "jira"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8365692"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Инграм Микро ЕООД",
+    "position": "Principal, Program Manager - Agile Delivery",
+    "location": "София",
+    "req": [
+      "english",
+      "jira",
+      "confluence",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8363791"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ейч Ар Ес Рикрутмънт Сървисиз ООД",
+    "position": "Senior React developer",
+    "location": "София",
+    "req": [
+      "english",
+      "react",
+      "html",
+      "css",
+      "adobe xd",
+      "creative cloud",
+      "figma",
+      "sketch",
+      "bootstrap",
+      "javascript",
+      "illustrator",
+      "photoshop"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8363557"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Тиетоеври Криейт България ЕООД / MенторМейт",
+    "position": "Senior/Mid React Native Engineer",
+    "location": "Fully Remote",
+    "req": [
+      "react",
+      "reactnative",
+      "javascript",
+      "typescript",
+      "ios",
+      "android"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8363396"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ваиос ООД",
+    "position": "Flutter App Developer – Varna / Remote Work Option",
+    "location": "Варна",
+    "req": [
+      "flutter",
+      "linux"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8362815"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "УИН БЕТ ОНЛАЙН ЕООД",
+    "position": "2D Illustrator with 3D Motion Capabilities (iGaming)",
+    "location": "София",
+    "req": [
+      "illustrator",
+      "creative cloud",
+      "photoshop"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8362417"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Аутопро.БГ ЕООД",
+    "position": "Продуктов фотограф - Тунинг и авто аксесоари",
+    "location": "Пловдив",
+    "req": [
+      "photoshop",
+      "creative cloud"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8359335"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ентейн Сървисиз (България) ЕООД",
+    "position": "Senior Software Engineer - Angular",
+    "location": "София",
+    "req": [
+      "angular",
+      "html",
+      "css",
+      "typescript",
+      "javascript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8361723"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ентейн Сървисиз (България) ЕООД",
+    "position": "Software Development Engineer II - (Mid-level, Angular)",
+    "location": "София",
+    "req": [
+      "angular",
+      "html",
+      "css",
+      "typescript",
+      "javascript",
+      ".net"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8361741"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "FactSet/ БРАВО КОНСУЛТ ЕООД",
+    "position": "Full-stack JavaScript Engineer - FinTech",
+    "location": "София",
+    "req": [
+      "javascript",
+      "typescript",
+      "vue.js",
+      "java",
+      "sql",
+      "redis",
+      "nosql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8359585"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "СИРМА ГРУП ХОЛДИНГ АД",
+    "position": "Full-Stack Java Developer",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "java",
+      "javascript",
+      "spring",
+      "react",
+      "angular",
+      "jenkins",
+      "docker",
+      "kubernetes"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8353764"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "KPMG Bulgaria OOD",
+    "position": "RPA Operations & Support Analyst (Automation Career Track)",
+    "location": "София",
+    "req": [
+      "excel",
+      "python",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8352425"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "УНИКА Груп клон България КЧТ",
+    "position": "Junior Software Developer",
+    "location": "Пловдив",
+    "req": [
+      "java"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8351791"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ЛИБХЕР - ХАУСГЕРЕТЕ МАРИЦА ЕООД",
+    "position": "IT Business Solution Analyst",
+    "location": "Радиново",
+    "req": [
+      "german",
+      "english",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8349938"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "РЕГИОКОМ ЕВРОПЕЙСКО ДРУЖЕСТВО - КЛОН БЪЛГАРИЯ КЧТ Централен офис Варна",
+    "position": "Java Developer with German",
+    "location": "Варна",
+    "req": [
+      "english",
+      "german",
+      "java",
+      "linux"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8349838"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "РЕГИОКОМ ЕВРОПЕЙСКО ДРУЖЕСТВО - КЛОН БЪЛГАРИЯ КЧТ Централен офис Варна",
+    "position": "Java Developer with German",
+    "location": "София",
+    "req": [
+      "german",
+      "english",
+      "java",
+      "linux"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8349693"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "РЕГИОКОМ ЕВРОПЕЙСКО ДРУЖЕСТВО - КЛОН БЪЛГАРИЯ КЧТ Централен офис Варна",
+    "position": "Frontend Developer with German",
+    "location": "Варна",
+    "req": [
+      "german",
+      "english",
+      "typescript",
+      "react",
+      "docker",
+      "aws",
+      "kubernetes",
+      "java"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8347541"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "РЕГИОКОМ ЕВРОПЕЙСКО ДРУЖЕСТВО - КЛОН БЪЛГАРИЯ КЧТ Централен офис Варна",
+    "position": "Frontend Developer with German",
+    "location": "София",
+    "req": [
+      "german",
+      "english",
+      "typescript",
+      "react",
+      "docker",
+      "aws",
+      "kubernetes",
+      "java"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8347446"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Schwarz Digits Bulgaria EOOD",
+    "position": "FULLSTACK SOFTWARE ENGINEER (m/f/d)",
+    "location": "София",
+    "req": [
+      "kotlin",
+      "java",
+      "vue.js",
+      "react",
+      "angular",
+      "docker",
+      "kubernetes",
+      "postgres",
+      "sql",
+      "mongodb",
+      "nosql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8346681"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Възраждане-Касис ООД",
+    "position": "Ecommerce Coordinator (Shopify)",
+    "location": "София",
+    "req": [
+      "english"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8379484"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Модул ЕООД - Top rent a car",
+    "position": "Mid Software Developer (React/React Native)",
+    "location": "Варна",
+    "req": [
+      "react",
+      "reactnative",
+      "html",
+      "css",
+      "javascript",
+      "typescript",
+      "mysql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8376178"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Data Solutions Ltd",
+    "position": "Frontend Developer (React & ASP.NET)",
+    "location": "София",
+    "req": [
+      "react",
+      "asp.net",
+      "javascript",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8376106"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ай Ес Джи Би Джи ЕООД",
+    "position": "Team Lead, Games Development",
+    "location": "София",
+    "req": [
+      "english",
+      "javascript",
+      "typescript",
+      "cocos"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8374048"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ай Ес Джи Би Джи ЕООД",
+    "position": "Frontend Team Lead",
+    "location": "София",
+    "req": [
+      "english",
+      "node",
+      "react",
+      "angular",
+      "javascript",
+      "html",
+      "css"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8373879"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Mobile Systems Ltd",
+    "position": "Frontend Web Developers with React & Next.js",
+    "location": "София",
+    "req": [
+      "react",
+      "javascript",
+      "typescript",
+      "html",
+      "css",
+      "node",
+      "docker"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8368042"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "БЛУБИТО ЕООД",
+    "position": "Стажанти SAP програмиране с немски език",
+    "location": "София",
+    "req": [
+      "english",
+      "german",
+      "sap"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8367727"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "АУТКОН ЕООД",
+    "position": "PHP Developer",
+    "location": "София",
+    "req": [
+      "php",
+      "vue.js",
+      "mysql",
+      "mariadb"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8363904"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Тиетоеври Криейт България ЕООД / MенторМейт",
+    "position": "Senior/Mid React Native Engineer",
+    "location": "Варна",
+    "req": [
+      "react",
+      "reactnative",
+      "javascript",
+      "typescript",
+      "ios",
+      "android"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8363601"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Тиетоеври Криейт България ЕООД / MенторМейт",
+    "position": "Senior/Mid React Native Engineer",
+    "location": "Пловдив",
+    "req": [
+      "react",
+      "reactnative",
+      "javascript",
+      "typescript",
+      "ios",
+      "android"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8363564"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Top Skills Recruitment Ltd",
+    "position": "Software Development Engineer Front end",
+    "location": "София",
+    "req": [
+      "english",
+      "react",
+      "javascript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8361773"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Трипълплюс България ЕООД",
+    "position": "WEB/MOBILE DEVELOPMENT ENGINEER",
+    "location": "Пловдив",
+    "req": [
+      "angular",
+      "react",
+      "javascript",
+      "reactnative",
+      "html",
+      "css",
+      "flutter",
+      "azure"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8360477"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ай Ес Джи Би Джи ЕООД",
+    "position": "Mid Frontend Developer",
+    "location": "София",
+    "req": [
+      "english",
+      "node",
+      "react",
+      "angular",
+      "javascript",
+      "html",
+      "css"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8350146"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Data Solutions Ltd",
+    "position": "UX/UI Designer, Figma",
+    "location": "София",
+    "req": [
+      "figma"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8349435"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ИДОКС ООД",
+    "position": "Senior Full Stack Developer",
+    "location": "София",
+    "req": [
+      "python",
+      "django",
+      "html",
+      "css",
+      "postgres",
+      "sql",
+      "rabbitmq",
+      "react",
+      "node",
+      "ansible",
+      "linux"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8348957"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Orsense Bulgaria EOOD",
+    "position": "Software Developer",
+    "location": "Пловдив",
+    "req": [
+      "english",
+      "c#",
+      "java",
+      "c",
+      "c++"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8348612"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Appolica Ltd.",
+    "position": "Experienced Software Engineer (Full-Stack)",
+    "location": "София",
+    "req": [
+      "english",
+      "typescript",
+      "react",
+      "node"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8346636"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "УНИКОНТ СОФТ ООД",
+    "position": "Software Developer с VB6 и SQL Server",
+    "location": "София",
+    "req": [
+      "sql",
+      "ms sql",
+      "vba",
+      ".net",
+      "mysql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8345613"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ACHALA SULZER Ltd.",
+    "position": "Full-Stack Developer with German Language",
+    "location": "София",
+    "req": [
+      "german",
+      "english",
+      "java",
+      "sql",
+      "spring",
+      "angular",
+      "hibernate",
+      "terraform",
+      "azure",
+      "jenkins",
+      "kubernetes",
+      "docker",
+      "typescript",
+      "postgres"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8385513"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "HMG LINKS Ltd",
+    "position": "C++ Application Developer (Linux / Qt)",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "c",
+      "c++",
+      "linux"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8384837"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "А1 България ЕАД",
+    "position": "Power Platform Developer (f/m/d)/ A1 Competence Delivery Center",
+    "location": "София",
+    "req": [
+      "sharepoint",
+      "windows",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8382827"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Accedia",
+    "position": "Junior .NET Full-Stack Developer",
+    "location": "София",
+    "req": [
+      ".net",
+      "c#",
+      "html",
+      "css",
+      "javascript",
+      "react",
+      "angular",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8382537"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Recruit Experts Ltd.",
+    "position": "Senior iOS Developer",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "ios",
+      "swift"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8379432"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "OPENSAPIENS EUROPE LTD.",
+    "position": "Senior Full-stack Javascript (Vue/Node.js) Developer, English speaking",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "javascript",
+      "vue.js",
+      "node",
+      "typescript",
+      "sql",
+      "aws",
+      "html",
+      "css",
+      "react",
+      "angular"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8376799"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Кодикс България ЕАД",
+    "position": "Junior UI Developer (Angular)",
+    "location": "София",
+    "req": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8374040"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "А1 България ЕАД",
+    "position": "ServiceNow Software Developer",
+    "location": "София",
+    "req": [
+      "english",
+      "java",
+      "javascript",
+      "angular",
+      "react",
+      "kafka",
+      "mysql",
+      "sql",
+      "ms sql",
+      "windows",
+      "linux"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8369894"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Accedia",
+    "position": "Junior Front-End Developer",
+    "location": "София",
+    "req": [
+      "javascript",
+      "html",
+      "css",
+      "react",
+      "angular",
+      "vue.js"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8368922"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Виваком България ЕАД",
+    "position": "Стажант Програмиране – гр. София",
+    "location": "София",
+    "req": [
+      "windows",
+      "linux",
+      "java",
+      "c",
+      "c++"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8365492"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ОКСКОУД ООД",
+    "position": "Frontend/Backend Developers",
+    "location": "София",
+    "req": [
+      "english",
+      "angular",
+      "typescript",
+      "html",
+      "css",
+      "docker",
+      "node",
+      "sql",
+      "python",
+      "flutter"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8365409"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "MAMBA TECHNOLOGY OOD",
+    "position": "Senior Game Developer (Frontend)",
+    "location": "София",
+    "req": [
+      "english",
+      "typescript",
+      "javascript",
+      "react",
+      "gsap",
+      "jira"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8359591"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "DXC Technology / DXC Bulgaria EOOD",
+    "position": "Lead Front-end/UI Developer",
+    "location": "София",
+    "req": [
+      "python",
+      "react",
+      "typescript",
+      "html",
+      "css",
+      "uxpin",
+      "figma",
+      "javascript",
+      "flask",
+      "aws",
+      "terraform",
+      "docker"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8352006"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Vaerolabs / ВиАероЛабс АД",
+    "position": "Software Engineer",
+    "location": "София",
+    "req": [
+      "spring",
+      "angular",
+      "html",
+      "css",
+      "bootstrap",
+      "kafka",
+      "java",
+      "javascript",
+      "typescript",
+      "hibernate",
+      "azure",
+      "sql",
+      "docker"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8351790"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Recruit Experts Ltd.",
+    "position": "SAP Basis Developer",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "sap",
+      "abap",
+      "java",
+      "linux",
+      "windows"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8350114"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SEVAR DESIGN OOD",
+    "position": "Intern QA Manual",
+    "location": "София",
+    "req": [
+      "html",
+      "css",
+      "javascript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8346981"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ACHALA SULZER Ltd.",
+    "position": "Junior Developer Java / Angular",
+    "location": "София",
+    "req": [
+      "java",
+      "angular",
+      "nosql",
+      "aws",
+      "dynamodb"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8345158"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Хемп Фармс ЕООД",
+    "position": "SEO специалист",
+    "location": "София",
+    "req": [
+      "html",
+      "css",
+      "wordpress"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8379879"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Клиъррут България ЕООД",
+    "position": "Full Stack Developer (Senior Quality Cloud Engineer)",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "typescript",
+      "node",
+      "express.js",
+      "javascript",
+      "react",
+      "aws",
+      "azure",
+      "gcp",
+      "jenkins",
+      "postgres",
+      "sql",
+      "mysql",
+      "mongodb",
+      "nosql",
+      "docker",
+      "kubernetes"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8379528"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Talent Hunter Ltd.",
+    "position": "Full-stack React&Nest Developer",
+    "location": "София",
+    "req": [
+      "react",
+      "typescript",
+      "javascript",
+      "postgres",
+      "sql",
+      "node"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8376413"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "DIGITAL & SOFTWARE SOLUTIONS LTD",
+    "position": "Angular Developer",
+    "location": "София",
+    "req": [
+      "english",
+      "angular",
+      "javascript",
+      "html",
+      "css",
+      "typescript",
+      "kubernetes"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8372037"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "HMG LINKS Ltd",
+    "position": "C++ Developer",
+    "location": "София",
+    "req": [
+      "c",
+      "c++"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8369619"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "NOPTECH EOOD",
+    "position": "Front-End Developer (Junior / Mid)",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "html",
+      "css",
+      "javascript",
+      ".net",
+      "c#"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8368072"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Тиетоеври Криейт България ЕООД / MенторМейт",
+    "position": "Senior/Mid React Native Engineer",
+    "location": "Велико Търново",
+    "req": [
+      "react",
+      "reactnative",
+      "javascript",
+      "typescript",
+      "ios",
+      "android"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8363607"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "КОЛОР ДИЗАЙН ЕООД",
+    "position": "Преподаватели/Учители - кодиране и програмиране",
+    "location": "Пловдив",
+    "req": [
+      "english",
+      "python",
+      "c",
+      "c++",
+      "java",
+      "c#"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8362416"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Coherent Solutions EOOD",
+    "position": "Full Stack Developer (Python/Vue.js)",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "python",
+      "vue.js",
+      "node"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8356617"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Bulwork",
+    "position": "Front-end Developer with Angular",
+    "location": "София",
+    "req": [
+      "english",
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8352350"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Bulwork",
+    "position": "Junior Web Developer",
+    "location": "София",
+    "req": [
+      "english",
+      "javascript",
+      "html",
+      "css"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8351911"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Е-ТНО ЛИДЕР ЕООД",
+    "position": "СОФТУЕРЕН РАЗРАБОТЧИК",
+    "location": "София",
+    "req": [
+      "english",
+      "html",
+      "css",
+      "php",
+      "python",
+      "java",
+      "c",
+      "c++",
+      "c#"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8384120"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "БУРГАСНЕТ ООД",
+    "position": "Администратор технически център",
+    "location": "Бургас",
+    "req": [
+      "windows"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8372942"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ГАМИТО ЕООД",
+    "position": "Angular Developer",
+    "location": "София",
+    "req": [
+      "angular"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8364635"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "TECHWORK.BG LTD.",
+    "position": "Full Stack Web Developers/Technical Consultants",
+    "location": "Fully Remote",
+    "req": [
+      "react",
+      "angular",
+      "azure"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8361096"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "БС КЪМПАНИ 666 ООД",
+    "position": "Intern Coaching Javascript Developer Paid",
+    "location": "София",
+    "req": [
+      "javascript",
+      "react",
+      "vue.js",
+      "angular",
+      "node",
+      "html",
+      "css"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8359424"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Импакт Хайър ЕООД",
+    "position": "Senior Mobile Developer (React Native)",
+    "location": "София",
+    "req": [
+      "english",
+      "react",
+      "reactnative",
+      "javascript",
+      "typescript",
+      "php",
+      "ios",
+      "android",
+      "laravel",
+      "swift",
+      "kotlin",
+      "java"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8354804"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Netlio EOOD",
+    "position": "Gaming Principal/Senior Frontend Developer (React & PixiJS)",
+    "location": "Варна",
+    "req": [
+      "english",
+      "react",
+      "html",
+      "css",
+      "typescript",
+      "figma"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8354526"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ТЕХНОМЕКС ЕООД",
+    "position": "Angular Developer",
+    "location": "София",
+    "req": [
+      "angular"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8346195"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Americaneagle.com EOOD",
+    "position": "Junior .NET Developer",
+    "location": "София",
+    "req": [
+      "english",
+      ".net",
+      "javascript",
+      "wordpress",
+      "azure",
+      "sql",
+      "mysql",
+      "aws",
+      "react"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8385399"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "КРОС 5 ЕООД",
+    "position": "Продавач - Дизайнер",
+    "location": "Китен",
+    "req": [
+      "photoshop"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8384071"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "IT IMPULSE EOOD",
+    "position": "Developer with German (Mid-level/Senior) - Remote / Bulgaria",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "german",
+      "c#",
+      "typescript",
+      "html",
+      "css",
+      "angular",
+      "azure",
+      "figma"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8381116"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Nordic Recruitment & Consulting EOOD",
+    "position": "Commercetools Developer",
+    "location": "Fully Remote",
+    "req": [
+      "gcp",
+      "aws",
+      "azure",
+      "javascript",
+      "typescript",
+      "react",
+      "vue.js"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8380431"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Americaneagle.com EOOD",
+    "position": "Frontend Developer Intern",
+    "location": "София",
+    "req": [
+      "english",
+      "javascript",
+      "html",
+      "css",
+      "react",
+      "vue.js",
+      "wordpress",
+      ".net",
+      "php"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8380310"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Amdaris Bulgaria EOOD",
+    "position": "Senior Front-End Developer / 3D Specialist",
+    "location": "София",
+    "req": [
+      "english",
+      "html",
+      "css",
+      "javascript",
+      "unity",
+      "unreal",
+      "react"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8379738"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "WorkWave Consulting EOOD",
+    "position": "Senior Full-stack Developer",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "node",
+      "typescript",
+      "react",
+      "postgres",
+      "sql",
+      "redis",
+      "nosql",
+      "aws",
+      "azure",
+      "gcp",
+      "grafana",
+      "docker",
+      "kubernetes",
+      "kafka"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8378938"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Bulwork",
+    "position": "Web Developer (Mobile Platforms)",
+    "location": "Пловдив",
+    "req": [
+      "english",
+      "html",
+      "css",
+      "javascript",
+      "angular",
+      "react",
+      "reactnative",
+      "flutter"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8378790"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "PODIX EOOD",
+    "position": "Senior React Native Engineer",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "react",
+      "reactnative",
+      "typescript",
+      "ios",
+      "android"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8378330"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Nordic Recruitment & Consulting EOOD",
+    "position": "Mid or Senior Java (Angular) Developer",
+    "location": "София",
+    "req": [
+      "java",
+      "angular",
+      "spring",
+      "wordpress",
+      "jenkins",
+      "kubernetes",
+      "tomcat",
+      "html",
+      "css",
+      "javascript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8377807"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "WEBSTATION Ltd.",
+    "position": "Стажант \"Маркетинг специалист\"",
+    "location": "София",
+    "req": [
+      "english"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8373410"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "КЛЕВРЕТ ООД",
+    "position": "Front-end Developer",
+    "location": "Благоевград",
+    "req": [
+      "html",
+      "css",
+      "typescript",
+      "react",
+      "angular",
+      "vue.js"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8372955"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "КЛЕВРЕТ ООД",
+    "position": "младши разработчик",
+    "location": "Благоевград",
+    "req": [
+      ".net",
+      "c#",
+      "asp.net",
+      "entity framework",
+      "ms sql",
+      "sql",
+      "html",
+      "css",
+      "javascript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8372785"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "КЛЕВРЕТ ООД",
+    "position": "Разработчик",
+    "location": "Благоевград",
+    "req": [
+      ".net",
+      "c#",
+      "asp.net",
+      "entity framework",
+      "ms sql",
+      "sql",
+      "html",
+      "css",
+      "javascript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8372790"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Зара Компютърс ЕООД",
+    "position": "WordPress специалист",
+    "location": "Хасково",
+    "req": [
+      "wordpress"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8371954"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "EDITED / DynamicAction Bulgaria EOOD",
+    "position": "Junior Python Developer",
+    "location": "София",
+    "req": [
+      "python",
+      "ruby",
+      "javascript",
+      "perl",
+      "html",
+      "css",
+      "selenium",
+      "linux"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8371549"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Уебстар БГ ЕООД",
+    "position": "Frontend Dev",
+    "location": "Стара Загора",
+    "req": [
+      "html",
+      "css",
+      "photoshop",
+      "creative cloud",
+      "adobe xd",
+      "figma",
+      "javascript",
+      "typescript",
+      "bootstrap",
+      "php",
+      "mysql",
+      "sql",
+      "jquery"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8370882"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ИЖЕ-КСАО БАЛКАН ЕООД",
+    "position": "Junior DevOps Engineer",
+    "location": "София",
+    "req": [
+      ".net",
+      "c#",
+      "linux",
+      "jenkins",
+      "kubernetes",
+      "docker",
+      "azure"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8370696"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ОМНИЛИНКС ЕООД",
+    "position": "QA Automation Engineer (Playwright, E2E & API Integrations)",
+    "location": "София",
+    "req": [
+      "vue.js",
+      "java",
+      "spring",
+      "postgres",
+      "sql",
+      "mongodb",
+      "nosql",
+      "redis",
+      "typescript",
+      "javascript",
+      "rabbitmq",
+      "kubernetes",
+      "docker"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8367458"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "TechPods JSC",
+    "position": "Software Engineer",
+    "location": "София",
+    "req": [
+      "python",
+      "django",
+      "javascript",
+      "typescript",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8366769"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Рекрутмънт фотос и видеос БГ ЕООД",
+    "position": "Senior React Developer",
+    "location": "София",
+    "req": [
+      "english",
+      "react",
+      "typescript",
+      "javascript",
+      "html",
+      "css"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8366621"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SMART INNOVATIVE TECHNOLOGIES LTD",
+    "position": "Mid-level .NET Developer",
+    "location": "София",
+    "req": [
+      ".net",
+      "windows",
+      "c#",
+      "sql",
+      "rabbitmq",
+      "ms sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8366285"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "South Point Solutions LTD.",
+    "position": "Middle Frontend Developer",
+    "location": "Русе",
+    "req": [
+      "angular",
+      "javascript",
+      "typescript",
+      "html",
+      "css",
+      "figma",
+      "ionic",
+      "reactnative",
+      "flutter"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8365623"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ELIZA - VASS LTD",
+    "position": "Embedded Software Engineer",
+    "location": "София",
+    "req": [
+      "c",
+      "c++",
+      "python"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8365052"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Рекрутмънт фотос и видеос БГ ЕООД",
+    "position": "Senior Angular Developer",
+    "location": "София",
+    "req": [
+      "english",
+      "angular",
+      "typescript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8364742"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Би Шеърд ООД",
+    "position": "Специалист по Mautic за e-mail marketing",
+    "location": "Fully Remote",
+    "req": [
+      "html",
+      "css"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8364681"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Tech Reserve Ltd",
+    "position": "Software Engineer | AI-Driven | JavaScript",
+    "location": "Fully Remote",
+    "req": [
+      "javascript",
+      "react",
+      "node"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8363775"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "DIGITALL Nature Bulgaria EOOD",
+    "position": "Senior Angular Developer",
+    "location": "София",
+    "req": [
+      "angular",
+      "docker",
+      "typescript",
+      "javascript",
+      "html",
+      "css",
+      "bootstrap",
+      "aws",
+      "azure"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8362285"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "МЕТОДИЯ АД",
+    "position": "Front-end Developer",
+    "location": "София",
+    "req": [
+      "javascript",
+      "node",
+      "html",
+      "css",
+      "bootstrap",
+      "java"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8361214"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Елатив Техноинвест ООД",
+    "position": "Web Developer Full Stack (PHP/ WordPress/ Elementor/ WooCommerce) - online",
+    "location": "Fully Remote",
+    "req": [
+      "php",
+      "wordpress",
+      "html",
+      "css",
+      "bootstrap",
+      "joomla",
+      "react",
+      "vue.js"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8361017"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Hewlett Packard Enterprise CDS Bulgaria EOOD",
+    "position": "Senior .NET Developer",
+    "location": "София",
+    "req": [
+      "english",
+      ".net",
+      "azure",
+      "c#",
+      "docker"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8359652"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Neoshare Bulgaria Ltd",
+    "position": "(Senior) Software Engineer with Angular",
+    "location": "София",
+    "req": [
+      "angular",
+      "typescript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8360557"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "emerchantpay ood",
+    "position": "Senior Developer with Golang",
+    "location": "Fully Remote",
+    "req": [
+      "golang",
+      "javascript",
+      "angular",
+      "react",
+      "ruby",
+      "ruby on rails",
+      "redis",
+      "nosql",
+      "rabbitmq",
+      "linux",
+      "aws",
+      "puppet",
+      "chef",
+      "ansible"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8360573"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Флай Геймс ЕООД",
+    "position": "Frontend Developer",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "турски",
+      "react",
+      "html",
+      "css",
+      "javascript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8358961"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ИТЕКО ООД",
+    "position": "iOS Software Engineer",
+    "location": "София",
+    "req": [
+      "ios",
+      "swift"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8358706"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ИТЕКО ООД",
+    "position": "iOS Software Engineer",
+    "location": "Велико Търново",
+    "req": [
+      "ios",
+      "swift"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8358708"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ИТЕКО ООД",
+    "position": "Android Software Engineer",
+    "location": "София",
+    "req": [
+      "android",
+      "java",
+      "kotlin"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8358701"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ИТЕКО ООД",
+    "position": "Android Software Engineer",
+    "location": "Велико Търново",
+    "req": [
+      "android",
+      "java",
+      "kotlin",
+      "swift"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8358704"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Americaneagle.com EOOD",
+    "position": "Senior Front End Developer",
+    "location": "София",
+    "req": [
+      "english",
+      "javascript",
+      "typescript",
+      "react",
+      "figma",
+      "html",
+      "css",
+      "docker"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8357458"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Corporate Business Technologies OOD",
+    "position": "Junior Full-Stack Developer",
+    "location": "София",
+    "req": [
+      "english",
+      "react",
+      "typescript",
+      "javascript",
+      "html",
+      "css",
+      "postgres",
+      "sql",
+      "mongodb",
+      "nosql",
+      "docker",
+      "figma",
+      "golang",
+      "python"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8357297"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ИЖЕ-КСАО БАЛКАН ЕООД",
+    "position": ".NET/C# Developer",
+    "location": "София",
+    "req": [
+      "english",
+      ".net",
+      "c#",
+      "asp.net",
+      "entity framework",
+      "sql",
+      "typescript",
+      "javascript",
+      "angular"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8357277"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Рекрутмънт фотос и видеос БГ ЕООД",
+    "position": "Shopify Technical Architect",
+    "location": "София",
+    "req": [
+      "english",
+      "html",
+      "css",
+      "javascript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8356635"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "IT IMPULSE EOOD",
+    "position": "Medior Software Developer (Full Stack )",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "angular",
+      ".net",
+      "c#",
+      "typescript",
+      "sql",
+      "azure",
+      "aws"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8356653"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SEVAR DESIGN OOD",
+    "position": "Intern Front-End Developer On site",
+    "location": "София",
+    "req": [
+      "html",
+      "css",
+      "javascript",
+      "bootstrap",
+      "php",
+      "python",
+      "mysql",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8356250"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Блу Елевън ООД",
+    "position": "SAP Junior ABAP Developer",
+    "location": "Варна",
+    "req": [
+      "english",
+      "sap",
+      "abap"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8355683"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "NATEK Bulgaria LLC",
+    "position": "FullStack Java Engineer",
+    "location": "София",
+    "req": [
+      "java",
+      "kotlin",
+      "react",
+      "golang",
+      "spring",
+      "nosql",
+      "postgres",
+      "sql",
+      "mongodb",
+      "aws",
+      "gcp",
+      "azure",
+      "docker"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8355252"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Данина-Г ООД",
+    "position": "Програмист",
+    "location": "Пловдив",
+    "req": [
+      "java",
+      "javascript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8354953"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Pytek Ltd.",
+    "position": "Intern Front-End Developer On site",
+    "location": "София",
+    "req": [
+      "html",
+      "css",
+      "javascript",
+      "bootstrap",
+      "php",
+      "python",
+      "mysql",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8354864"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Prime Force Bulgaria LTD",
+    "position": "/ Alfresco Developer + Support",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "java",
+      "angular",
+      "splunk",
+      "jira",
+      "confluence"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8354846"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Интеллиас България ЕООД",
+    "position": "Strong Middle Full Stack Engineer (Node.js, React, Ruby)",
+    "location": "София",
+    "req": [
+      "english",
+      "node",
+      "react",
+      "ruby",
+      "typescript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8354551"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ТЕХНИКЪЛ СЪЛЮШЪН ООД",
+    "position": "Програмист PHP & MySQL за поддръжка и разработка на фирмена софтуер",
+    "location": "София",
+    "req": [
+      "php",
+      "mysql",
+      "sql",
+      "perl",
+      "python",
+      "java",
+      "swift",
+      "android",
+      "linux"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8354611"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Lab40 LTD",
+    "position": "Developer",
+    "location": "Пловдив",
+    "req": [
+      ".net",
+      "sql",
+      "postgres",
+      "c#",
+      "aws",
+      "azure",
+      "asp.net",
+      "entity framework",
+      "html",
+      "css",
+      "javascript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8353370"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "КодиНекст ЕООД",
+    "position": "Дeveloper",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "react",
+      "reactnative",
+      "javascript",
+      "typescript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8352550"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Talent Hunter Ltd.",
+    "position": "Sr. Frontend Developer",
+    "location": "София",
+    "req": [
+      "english",
+      "html",
+      "css",
+      "javascript",
+      "react",
+      "node",
+      "jenkins"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8351804"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Интернешънъл Проджект Мениджмънт Къмпани ЕООД",
+    "position": "React.js Game Dev Senior",
+    "location": "София",
+    "req": [
+      "english",
+      "react",
+      "html",
+      "css",
+      "javascript",
+      "figma",
+      "aws"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8350856"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Интеллиас България ЕООД",
+    "position": "Software AI Engineer (React + Node.Js)",
+    "location": "София",
+    "req": [
+      "english",
+      "react",
+      "node",
+      "postgres",
+      "sql",
+      "rabbitmq",
+      "redis",
+      "nosql",
+      "javascript",
+      "typescript",
+      "docker",
+      "kubernetes"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8350343"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ИГРАЛНИ ТЕХНОЛОГИИ-ГТ-ГЕЙМИНГ ТЕХНОЛОДЖИС ЕООД",
+    "position": "Script Game Developer",
+    "location": "София",
+    "req": [
+      "html",
+      "css",
+      "javascript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8348544"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "UnrealSoft Ltd.",
+    "position": "Full-Stack Developer",
+    "location": "Fully Remote",
+    "req": [
+      "postgres",
+      "sql",
+      "react",
+      "typescript",
+      "python",
+      "docker",
+      "redis",
+      "nosql",
+      "kubernetes"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8347467"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "МЕТОДИЯ АД",
+    "position": "Internship Tech academy",
+    "location": "София",
+    "req": [
+      "react",
+      "java",
+      "python",
+      "javascript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8346673"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Talent Hunter Ltd.",
+    "position": "Principal Developer Fullstack (Java TL)",
+    "location": "София",
+    "req": [
+      "java",
+      "spring",
+      "angular",
+      "typescript",
+      "jenkins",
+      "docker",
+      "terraform",
+      "azure",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8345064"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "TechPods JSC",
+    "position": "language Full-Stack Developer",
+    "location": "София",
+    "req": [
+      "typescript",
+      "javascript",
+      "aws",
+      "dynamodb",
+      "nosql",
+      "php",
+      "vue.js",
+      "node",
+      "html",
+      "css",
+      "postgres",
+      "sql",
+      "jira"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8371017"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "TechPods JSC",
+    "position": "language Lead UX Designer",
+    "location": "София",
+    "req": [
+      "figma",
+      "html",
+      "css"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8369171"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ЕПАМ Системс България ЕООД",
+    "position": "language Senior Full Stack ABAP/UI5 Developer",
+    "location": "Fully Remote",
+    "req": [
+      "abap",
+      "sap"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8318071"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ЕПАМ Системс България ЕООД",
+    "position": "language Senior Full Stack Developer (Go+Angular+K8S)",
+    "location": "Fully Remote",
+    "req": [
+      "golang",
+      "angular",
+      "kubernetes",
+      "grafana",
+      "splunk",
+      "elasticsearch",
+      "nosql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8332857"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "TechPods JSC",
+    "position": "language Software Engineer",
+    "location": "София",
+    "req": [
+      "python",
+      "django",
+      "javascript",
+      "typescript",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8367138"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ЕПАМ Системс България ЕООД",
+    "position": "language Senior SAP FSM Engineer",
+    "location": "Fully Remote",
+    "req": [
+      "sap",
+      "sql",
+      "node"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8318042"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "флатексДЕГИРО - клон България",
+    "position": "language React/ React Native Developer",
+    "location": "София",
+    "req": [
+      "react",
+      "reactnative",
+      "javascript",
+      "html",
+      "css",
+      "typescript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8358238"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Пвртиймс България ЕООД",
+    "position": "language Mid/Senior JavaScript Engineer",
+    "location": "София",
+    "req": [
+      "javascript",
+      "html",
+      "css",
+      "react"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8355871"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Proxiad SEE",
+    "position": "language Senior Web Developer",
+    "location": "София",
+    "req": [
+      "wordpress",
+      "php",
+      "html",
+      "css",
+      "javascript",
+      "sql",
+      "docker",
+      "kubernetes"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8350803"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Proxiad SEE",
+    "position": "language Senior Web Developer",
+    "location": "Пловдив",
+    "req": [
+      "wordpress",
+      "php",
+      "html",
+      "css",
+      "javascript",
+      "sql",
+      "docker",
+      "kubernetes"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8350804"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Fourth Bulgaria EOOD",
+    "position": "language Senior React Native Developer",
+    "location": "София",
+    "req": [
+      "react",
+      "reactnative",
+      "javascript",
+      "html",
+      "css"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8348777"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Resolute Software JSC",
+    "position": "language Senior Software Engineer - Angular",
+    "location": "София",
+    "req": [
+      "angular",
+      "javascript",
+      "typescript",
+      "html",
+      "css",
+      "azure",
+      "node"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/7199275"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "IBM Bulgaria Ltd.",
+    "position": "language Midlevel Front-End Developer",
+    "location": "София",
+    "req": [
+      "react",
+      "javascript",
+      "jira",
+      "ibm cloud",
+      "typescript",
+      "selenium"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8302588"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Кодикс България ЕАД",
+    "position": "language Mid-Level UI Developer",
+    "location": "София",
+    "req": [
+      "angular",
+      "typescript",
+      "html",
+      "css",
+      "react"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/5821655"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Пвртиймс България ЕООД",
+    "position": "language Full-Stack Engineer (.NET & React)",
+    "location": "София",
+    "req": [
+      ".net",
+      "react",
+      "jira",
+      "confluence",
+      "c#",
+      "typescript",
+      "sql",
+      "elasticsearch",
+      "nosql",
+      "azure"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8334853"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ен Ди Ес ЕООД",
+    "position": "language Experience Designer",
+    "location": "София",
+    "req": [
+      "figma",
+      "framer",
+      "gsap",
+      "html",
+      "css",
+      "javascript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8334859"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "EXPERIAN BULGARIA EAD",
+    "position": "language Senior Software Engineer - .NET",
+    "location": "София",
+    "req": [
+      ".net",
+      "c#",
+      "html",
+      "css",
+      "javascript",
+      "windows presentation foundation",
+      "jquery",
+      "nunit",
+      "asp.net",
+      "node",
+      "sql",
+      "jira",
+      "confluence",
+      "python"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8332863"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ен Ди Ес ЕООД",
+    "position": "language Senior Web Developer",
+    "location": "София",
+    "req": [
+      "react",
+      "typescript",
+      "mongodb",
+      "nosql",
+      "aws",
+      "html",
+      "css",
+      "docker",
+      "figma",
+      "node",
+      "php",
+      "terraform"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8331374"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "OFFICERND OOD",
+    "position": "language Senior Full Stack Developer",
+    "location": "София",
+    "req": [
+      "node",
+      "java",
+      ".net",
+      "aws",
+      "azure",
+      "gcp",
+      "javascript",
+      "react",
+      "angular",
+      "vue.js"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8329613"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "EXPERIAN BULGARIA EAD",
+    "position": "language Fullstack Software Engineer",
+    "location": "София",
+    "req": [
+      "java",
+      "angular",
+      "spring",
+      "javascript",
+      "html",
+      "css",
+      "selenium",
+      "cucumber"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8329610"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Resolute Software JSC",
+    "position": "language Senior Software Engineer – React",
+    "location": "София",
+    "req": [
+      "react",
+      "javascript",
+      "html",
+      "css",
+      "typescript",
+      "mongodb",
+      "nosql",
+      "express.js",
+      "angular",
+      "node",
+      "kubernetes",
+      "docker",
+      "elasticsearch",
+      "c#",
+      ".net"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/7681937"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "NUVEI BULGARIA EOOD",
+    "position": "language Frontend Developer (JavaScript)",
+    "location": "София",
+    "req": [
+      "javascript",
+      "html",
+      "css",
+      "jquery",
+      "mysql",
+      "sql",
+      "react"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8303740"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SMS BUMP Ltd.",
+    "position": "language Mid-level Full-stack Engineer",
+    "location": "София",
+    "req": [
+      "java",
+      "spring",
+      "react",
+      "angular",
+      "aws",
+      "ruby",
+      "ruby on rails"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8299874"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SMS BUMP Ltd.",
+    "position": "language Senior Full-Stack Engineer (FE Oriented)",
+    "location": "София",
+    "req": [
+      "react",
+      "angular",
+      "vue.js",
+      "typescript",
+      "java",
+      "ruby",
+      "jenkins",
+      "mysql",
+      "sql",
+      "redis",
+      "nosql",
+      "aws",
+      "kafka",
+      "rabbitmq",
+      "html",
+      "css",
+      "javascript",
+      "figma"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8291478"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "СТАНГА АД",
+    "position": "language Flutter Developer",
+    "location": "Fully Remote",
+    "req": [
+      "flutter",
+      "ios",
+      "android"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8221547"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "СТАНГА АД",
+    "position": "language React Native Developer",
+    "location": "Fully Remote",
+    "req": [
+      "react",
+      "reactnative",
+      "ios",
+      "android",
+      "typescript",
+      "swift",
+      "objective-c",
+      "c",
+      "c++",
+      "kotlin",
+      "java"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8153541"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "СТАНГА АД",
+    "position": "language ReactJS Developer",
+    "location": "Fully Remote",
+    "req": [
+      "react",
+      "javascript",
+      "html",
+      "css"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8221545"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SAP Labs Bulgaria Ltd.",
+    "position": "language SAP iXp Intern - User Experience Designer",
+    "location": "София",
+    "req": [
+      "sap",
+      "creative cloud",
+      "figma",
+      "axure",
+      "sketch"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8246185"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Appolica Ltd.",
+    "position": "language Experienced Full-Stack Engineer",
+    "location": "София",
+    "req": [
+      "typescript",
+      "react",
+      "node"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8238642"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ЛИРЕКС БГ ООД",
+    "position": "language Angular Front-end Developer",
+    "location": "София",
+    "req": [
+      "angular",
+      "typescript",
+      "html",
+      "css",
+      "javascript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8223358"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "DEVRIX EOOD",
+    "position": "language Senior WordPress Engineer",
+    "location": "София",
+    "req": [
+      "wordpress",
+      "php",
+      "mysql",
+      "sql",
+      "python",
+      "javascript",
+      "laravel",
+      "react",
+      "aws",
+      "gcp",
+      "salesforce",
+      "node"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8210818"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Пвртиймс България ЕООД",
+    "position": "language JavaScript/TypeScript Backend Engineer",
+    "location": "София",
+    "req": [
+      "javascript",
+      "typescript",
+      "aws",
+      "terraform",
+      "react"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8210808"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "DEVRIX EOOD",
+    "position": "language Senior Web Engineer",
+    "location": "София",
+    "req": [
+      "wordpress",
+      "php",
+      "mysql",
+      "sql",
+      "python",
+      "javascript",
+      "laravel",
+      "react",
+      "node"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8098018"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "DEVRIX EOOD",
+    "position": "language Senior Web Designer",
+    "location": "София",
+    "req": [
+      "figma",
+      "adobe xd",
+      "creative cloud",
+      "photoshop",
+      "illustrator",
+      "html",
+      "css",
+      "wordpress"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/6091638"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "DEVRIX EOOD",
+    "position": "language Front-end Developer Bulgaria",
+    "location": "София",
+    "req": [
+      "wordpress",
+      "figma",
+      "react",
+      "html",
+      "css",
+      "jquery",
+      "aws",
+      "gcp",
+      "salesforce",
+      "javascript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/5936453"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "DEVRIX EOOD",
+    "position": "language WordPress Engineer",
+    "location": "София",
+    "req": [
+      "wordpress",
+      "php",
+      "mysql",
+      "sql",
+      "python",
+      "javascript",
+      "laravel",
+      "react",
+      "aws",
+      "gcp",
+      "salesforce",
+      "node"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8098016"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Resolute Software JSC",
+    "position": "language Full Stack Angular + Node.js/NestJS Engineer",
+    "location": "София",
+    "req": [
+      "angular",
+      "node",
+      "sql",
+      "typescript",
+      "aws",
+      "azure",
+      "gcp",
+      "postgres",
+      "mysql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8189283"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Resolute Software JSC",
+    "position": "language Full Stack Angular + .NET Engineer",
+    "location": "София",
+    "req": [
+      "angular",
+      ".net",
+      "javascript",
+      "typescript",
+      "html",
+      "css",
+      "azure",
+      "node"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/7425046"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SMS BUMP Ltd.",
+    "position": "language Senior Full-Stack Engineer(Platform)",
+    "location": "София",
+    "req": [
+      "java",
+      "spring",
+      "react",
+      "angular",
+      "aws",
+      "ruby",
+      "ruby on rails"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8108455"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Новарто ООД",
+    "position": "language Angular Developer - SAP Spartacus",
+    "location": "Пловдив",
+    "req": [
+      "angular",
+      "sap",
+      "javascript",
+      "typescript",
+      "html",
+      "css",
+      "jira",
+      "jenkins"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/7960780"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Новарто ООД",
+    "position": "language Angular Developer - SAP Spartacus",
+    "location": "София",
+    "req": [
+      "angular",
+      "sap",
+      "javascript",
+      "typescript",
+      "html",
+      "css",
+      "jira",
+      "jenkins"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/7960781"
+  }
+]
