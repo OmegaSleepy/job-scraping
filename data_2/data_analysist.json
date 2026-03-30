@@ -1,0 +1,2345 @@
+[
+  {
+    "category": "Software Development",
+    "companyName": "ИМОС СЪРВИС ООД",
+    "position": "CAD Data Developer with German and English",
+    "location": "Варна",
+    "req": [
+      "english",
+      "german"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8382611"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ПЕНСИОННО ОСИГУРИТЕЛНА КОМПАНИЯ ДСК-РОДИНА АД",
+    "position": "Database Expert SQL, MySQL, Oracle",
+    "location": "София",
+    "req": [
+      "sql",
+      "mysql",
+      "oracle database",
+      "excel",
+      "linux"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8357552"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "DXC Technology / DXC Bulgaria EOOD",
+    "position": "Azure/AWS/Databricks Data Engineer",
+    "location": "София",
+    "req": [
+      "english",
+      "azure",
+      "aws",
+      "sql",
+      "spark",
+      "python",
+      "jira",
+      "confluence",
+      "terraform"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8352393"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "DXC Technology / DXC Bulgaria EOOD",
+    "position": "Senior AI Engineer",
+    "location": "София",
+    "req": [
+      "english",
+      "python",
+      "azure",
+      "aws"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8352385"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Akkodis Bulgaria EOOD",
+    "position": "Cloud Database Engineer",
+    "location": "София",
+    "req": [
+      "linux",
+      "mysql",
+      "sql",
+      "postgres",
+      "mongodb",
+      "nosql",
+      "kubernetes",
+      "aws",
+      "azure",
+      "grafana",
+      "elasticsearch",
+      "terraform",
+      "ansible",
+      "kafka",
+      "rabbitmq"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8366429"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Риуорд Гейтуей България ЕООД",
+    "position": "Junior Merchant Analyst",
+    "location": "Пловдив",
+    "req": [
+      "excel",
+      "tableau",
+      "power bi"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8373234"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Schwarz Digits Bulgaria EOOD",
+    "position": "BACKUP & RECOVERY ENGINEER (m/f/d)",
+    "location": "София",
+    "req": [
+      "python",
+      "ansible"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8366275"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "MM FINTECH EOOD",
+    "position": "Product Manager – Fintech",
+    "location": "София",
+    "req": [
+      "jira"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8365692"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ЕКОНТ ЕКСПРЕС АД",
+    "position": "Старши DWH / BI инженер",
+    "location": "Fully Remote",
+    "req": [
+      "power bi",
+      "ms sql",
+      "sql",
+      "gcp",
+      "php",
+      "python",
+      "pandas",
+      "linux"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8365475"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "eder Sofia GmbH",
+    "position": "UNREAL ARTIST (automotive)",
+    "location": "София",
+    "req": [
+      "unreal",
+      "creative cloud"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8365150"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "GfK Bulgaria, Market Research Institute",
+    "position": "TV/Radio Data Production Specialist (24/7 shifts)",
+    "location": "София",
+    "req": [
+      "english",
+      "windows",
+      "excel",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8363290"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ЕКОНТ ЕКСПРЕС АД",
+    "position": "Старши PHP разработчик",
+    "location": "Fully Remote",
+    "req": [
+      "php",
+      "mysql",
+      "sql",
+      "redis",
+      "nosql",
+      "nginx",
+      "linux",
+      "javascript",
+      "ios",
+      "swift"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8362313"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ЕКОНТ ЕКСПРЕС АД",
+    "position": "Старши DWH / BI инженер",
+    "location": "Русе",
+    "req": [
+      "power bi",
+      "ms sql",
+      "sql",
+      "gcp",
+      "php",
+      "python",
+      "pandas",
+      "linux"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8362323"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "GfK Bulgaria, Market Research Institute",
+    "position": "Business Analyst (Market Data)",
+    "location": "София",
+    "req": [
+      "english",
+      "sql",
+      "tableau",
+      "power bi"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8362521"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Schwarz Digits Bulgaria EOOD",
+    "position": "DBRE Site Reliability Engineer Databases - STACKIT (m/f/d)",
+    "location": "София",
+    "req": [
+      "nosql",
+      "golang",
+      "kubernetes"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8361066"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Schwarz Digits Bulgaria EOOD",
+    "position": "CLOUD DATABASE ENGINEER ( MongoDB/ MariaDB/ SQL Server ) - STACKIT (m/f/d)",
+    "location": "София",
+    "req": [
+      "mongodb",
+      "nosql",
+      "mariadb",
+      "sql",
+      "kubernetes",
+      "linux",
+      "openstack"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8361048"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Green Street (Bulgaria) Ltd.",
+    "position": "Senior Data Engineer",
+    "location": "София",
+    "req": [
+      "english",
+      "mysql",
+      "sql",
+      "postgres",
+      "python",
+      "aws",
+      "pandas",
+      "flask",
+      "confluence",
+      "jira"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8359138"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "GfK Bulgaria, Market Research Institute",
+    "position": "Junior GIS Analyst",
+    "location": "София",
+    "req": [
+      "english",
+      "excel",
+      "python",
+      "sql",
+      "vba"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8358570"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "А1 България ЕАД",
+    "position": "Data Engineer (f/m/d) / A1 Competence Delivery Center",
+    "location": "София",
+    "req": [
+      "python",
+      "linux",
+      "sql",
+      "hadoop",
+      "spark",
+      "azure",
+      "aws",
+      "gcp",
+      "kafka"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8357267"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ейч Ар Ес Рикрутмънт Сървисиз ООД",
+    "position": "Data Engineer",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "sql",
+      "python",
+      "azure"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8356172"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "DXC Technology / DXC Bulgaria EOOD",
+    "position": "Snowflake Data Engineer",
+    "location": "София",
+    "req": [
+      "english",
+      "sql",
+      "python",
+      "azure",
+      "aws"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8352394"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ТИНК ТАНК БГ ЕООД",
+    "position": "Junior/Mid Data Engineer - SQL",
+    "location": "Пловдив",
+    "req": [
+      "english",
+      "sql",
+      "excel",
+      "ms sql",
+      "mysql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8352346"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ЗАД \"АЛИАНЦ БЪЛГАРИЯ\" АД/Централно управление",
+    "position": "Information Systems Specialist - Pension Funds",
+    "location": "София",
+    "req": [
+      "excel",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8351906"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "GfK Bulgaria, Market Research Institute",
+    "position": "Data Analyst",
+    "location": "София",
+    "req": [
+      "english",
+      "sql",
+      "html",
+      "css",
+      "python",
+      "tableau"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8351055"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "GfK Bulgaria, Market Research Institute",
+    "position": "Data Operations Analyst",
+    "location": "София",
+    "req": [
+      "english",
+      "sql",
+      "tableau",
+      "power bi"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8345098"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "tbi bank",
+    "position": "System Owner and Analytics (SQL)",
+    "location": "София",
+    "req": [
+      "english",
+      "sql",
+      "excel",
+      "power bi"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8371656"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "tbi bank",
+    "position": "Senior SQL Reporting Specialist",
+    "location": "София",
+    "req": [
+      "english",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8356835"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Асебо ЕООД",
+    "position": "Database Developer",
+    "location": "София",
+    "req": [
+      "sql",
+      ".net",
+      "power bi"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8372500"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "tbi bank",
+    "position": "Senior Specialist Data and Reporting",
+    "location": "София",
+    "req": [
+      "english",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8356858"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "А1 България ЕАД",
+    "position": "Machine Learning Engineer (f/m/d)/ A1 Competence Delivery Center",
+    "location": "София",
+    "req": [
+      "python",
+      "java",
+      "azure"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8347480"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Digital Technology Center Commerzbank AG Sofia Branch",
+    "position": "Data and Cloud Engineer (Audit)",
+    "location": "София",
+    "req": [
+      "python",
+      "azure",
+      "gcp",
+      "sql",
+      "hive",
+      "spark",
+      "javascript",
+      "react",
+      "qlik",
+      "jira",
+      "confluence"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8346140"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "биКС Консултинг България ООД",
+    "position": "Data Engineer Cloud Data Warehouse",
+    "location": "София",
+    "req": [
+      "english",
+      "azure",
+      "sql",
+      "python",
+      "scala"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8384913"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "А1 България ЕАД",
+    "position": "Billing Charging Operations (f/m/d)/ A1 Competence Delivery Center",
+    "location": "София",
+    "req": [
+      "english",
+      "linux",
+      "sql",
+      "mysql",
+      "python",
+      "azure",
+      "hadoop"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8382852"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "HMG LINKS Ltd",
+    "position": "Database Developer - Mid/Senior Level",
+    "location": "София",
+    "req": [
+      "english",
+      "sql",
+      "postgres",
+      "oracle database"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8379122"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "EXPERIAN BULGARIA EAD",
+    "position": "Senior Data Analytics Specialist – ICFR",
+    "location": "София",
+    "req": [
+      "english",
+      "excel",
+      "python",
+      "tableau",
+      "power bi",
+      "sql",
+      "aws"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8378820"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "KBC Global Services BG",
+    "position": "Data Analyst",
+    "location": "София",
+    "req": [
+      "python",
+      "qlik",
+      "sql",
+      "nosql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8378751"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ОББ АД",
+    "position": "Експерт в екип Отчети и анализи",
+    "location": "София",
+    "req": [
+      "excel",
+      "power bi",
+      "sql",
+      "ms sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8377082"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "HMG LINKS Ltd",
+    "position": "Data Engineer",
+    "location": "София",
+    "req": [
+      "python",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8369605"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "DXC Technology / DXC Bulgaria EOOD",
+    "position": "Junior MS SQL Database Administrator",
+    "location": "София",
+    "req": [
+      "ms sql",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8367776"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Виваком България ЕАД",
+    "position": "Стажант База данни - гр. София",
+    "location": "София",
+    "req": [
+      "sql",
+      "ms sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8365551"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "МЕНПАУЪР БЪЛГАРИЯ ООД",
+    "position": "ERP & Business Consultant",
+    "location": "София",
+    "req": [
+      "english",
+      "german",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8356270"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "МЕНПАУЪР БЪЛГАРИЯ ООД",
+    "position": "Data Scientist (HealthTech)",
+    "location": "София",
+    "req": [
+      "python",
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8356226"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Accedia",
+    "position": "Junior Data Engineer",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "sql",
+      "ms sql",
+      "oracle database",
+      "mysql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8353719"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "МЕНПАУЪР БЪЛГАРИЯ ООД",
+    "position": "Специалист, обработка на данни (по заместване)",
+    "location": "Пловдив",
+    "req": [
+      "excel"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8351819"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ипсос ЕООД",
+    "position": "Junior Survey Developer",
+    "location": "София",
+    "req": [
+      "excel",
+      "spss"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8347482"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ипсос ЕООД",
+    "position": "Junior Data Processing specialist",
+    "location": "София",
+    "req": [
+      "python",
+      "spss",
+      "sql",
+      "pandas",
+      "excel"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8346452"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "UpSkill Ltd.",
+    "position": "Senior Data Engineer",
+    "location": "София",
+    "req": [
+      "english",
+      "sql",
+      "aws",
+      "python"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8382725"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Банка ДСК АД",
+    "position": "Senior Oracle Developer",
+    "location": "София",
+    "req": [
+      "sql",
+      "oracle database",
+      "terraform",
+      "azure"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8382294"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "РекрутиТалент ЕООД",
+    "position": "Senior Data Engineer with Python + Databricks (REMOTE)",
+    "location": "Fully Remote",
+    "req": [
+      "python",
+      "spark",
+      "azure",
+      "pandas",
+      "redis",
+      "nosql",
+      "docker",
+      "kubernetes"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8375348"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ПЛЪКСИ БЪЛГАРИЯ ЕООД",
+    "position": "Sales Business Analyst/ Business Intelligence",
+    "location": "София",
+    "req": [
+      "excel",
+      "salesforce",
+      "power bi",
+      "tableau",
+      "sql",
+      "azure"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8373889"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Bulwork",
+    "position": "RISK MODELLING ANALYST",
+    "location": "София",
+    "req": [
+      "sql",
+      "python"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8365897"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Coherent Solutions EOOD",
+    "position": "Data Engineer (Databricks)",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "python",
+      "scala",
+      "sql",
+      "nosql",
+      "spark",
+      "azure",
+      "aws",
+      "gcp"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8356600"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ЮНИКОРН СИСТЕМС ЕООД",
+    "position": "Technical Support Specialist",
+    "location": "Варна",
+    "req": [
+      "sql",
+      "linux",
+      "java",
+      ".net",
+      "c",
+      "c++"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8356449"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Кодери AД",
+    "position": "Middle Data Analyst",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "sql",
+      "gcp",
+      "tableau",
+      "power bi",
+      "aws",
+      "python"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8354788"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Кодери AД",
+    "position": "Middle Data Engineer",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "python",
+      "java",
+      "scala",
+      "gcp",
+      "terraform",
+      "docker",
+      "kubernetes",
+      "sql",
+      "jenkins",
+      "jira",
+      "aws"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8354694"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "UpSkill Ltd.",
+    "position": "Reporting Specialist",
+    "location": "София",
+    "req": [
+      "english",
+      "excel",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8353858"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Импакт Хайър ЕООД",
+    "position": "Data Engineer - Databricks and Snowflake",
+    "location": "София",
+    "req": [
+      "english",
+      "sql",
+      "python",
+      "spark",
+      "azure",
+      "aws",
+      "gcp",
+      "sap",
+      "power bi",
+      "tableau"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8381919"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "TECHWORK.BG LTD.",
+    "position": "Data Engineers/Python Application Engineers(Mid)",
+    "location": "Fully Remote",
+    "req": [
+      "python",
+      "azure"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8370151"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "TECHWORK.BG LTD.",
+    "position": "Data Engineers",
+    "location": "Fully Remote",
+    "req": [
+      "azure"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8370147"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Nordic Recruitment & Consulting EOOD",
+    "position": "Senior Python Data Engineer",
+    "location": "София",
+    "req": [
+      "python",
+      "mysql",
+      "sql",
+      "postgres",
+      "pandas",
+      "flask",
+      "confluence",
+      "jira",
+      "aws"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8355560"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Nordic Recruitment & Consulting EOOD",
+    "position": "Senior Data Engineer",
+    "location": "София",
+    "req": [
+      "mysql",
+      "sql",
+      "postgres",
+      "python",
+      "pandas",
+      "flask",
+      "confluence",
+      "jira",
+      "aws"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8345052"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SKILLWORK BG ltd",
+    "position": "Data Engineer with GCP",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "gcp",
+      "sql",
+      "python",
+      "terraform",
+      "kubernetes",
+      "pandas"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8384683"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SKILLWORK BG ltd",
+    "position": "Senior Data Engineer with Snowflake",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "sql",
+      "python",
+      "docker",
+      "linux",
+      "aws",
+      "gcp"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8384652"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "АПГРЕЙТ ООД",
+    "position": "Data Engineer",
+    "location": "София",
+    "req": [
+      "english",
+      "python",
+      "sql",
+      "power bi"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8382232"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Талейнт ЕООД",
+    "position": "Reporting & Credit Risk Team Lead",
+    "location": "София",
+    "req": [
+      "english",
+      "sql",
+      "excel",
+      "python",
+      "power bi"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8380190"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Талейнт ЕООД",
+    "position": "Senior Data Engineer",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "aws",
+      "gcp",
+      "sql",
+      "spark",
+      "docker"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8378396"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Nordic Recruitment & Consulting EOOD",
+    "position": "Senior Data Developer (Spark, Airflow)",
+    "location": "Fully Remote",
+    "req": [
+      "spark",
+      "python",
+      "sql",
+      "aws",
+      "azure",
+      "gcp",
+      "terraform",
+      "kafka"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8378119"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Nordic Recruitment & Consulting EOOD",
+    "position": "Data Platform Engineer",
+    "location": "Fully Remote",
+    "req": [
+      "spark",
+      "terraform",
+      "aws"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8378131"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "РекрутиТалент ЕООД",
+    "position": "Senior Machine Learning Developer (REMOTE)",
+    "location": "Fully Remote",
+    "req": [
+      "aws",
+      "python",
+      "pandas",
+      "tensorflow",
+      "pytorch",
+      "sql",
+      "azure"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8374897"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Nordic Recruitment & Consulting EOOD",
+    "position": "Mid or Senior Data Engineer",
+    "location": "София",
+    "req": [
+      "python",
+      "jenkins",
+      "docker",
+      "aws"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8368306"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Рекрутмънт фотос и видеос БГ ЕООД",
+    "position": "Senior Data Engineer",
+    "location": "София",
+    "req": [
+      "sql",
+      "python",
+      "kafka",
+      "rabbitmq",
+      "postgres",
+      "mysql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8368537"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Рекрутмънт фотос и видеос БГ ЕООД",
+    "position": "Data Engineer (iGaming sector)",
+    "location": "София",
+    "req": [
+      "python",
+      "sql",
+      "kafka",
+      "docker",
+      "kubernetes"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8366655"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Рекрутмънт фотос и видеос БГ ЕООД",
+    "position": "Database Developer",
+    "location": "София",
+    "req": [
+      "postgres",
+      "sql",
+      "python"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8365937"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Виберг проджектс ЕООД",
+    "position": "CAD Automation Programmer",
+    "location": "София",
+    "req": [
+      "c#",
+      ".net",
+      "sap",
+      "ms sql",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8365045"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Талейнт ЕООД",
+    "position": "Senior Data QA Engineer",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "python",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8363835"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "TechPods JSC",
+    "position": "Senior Data Analyst",
+    "location": "София",
+    "req": [
+      "english",
+      "sql",
+      "postgres",
+      "excel",
+      "power bi",
+      "tableau",
+      "python"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8363766"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SKILLWORK BG ltd",
+    "position": "Senior Data QA Engineer (SQL + Python, Data Pipelines)",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "sql",
+      "python",
+      "aws",
+      "kafka",
+      "terraform"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8363717"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "HR Labs EOOD",
+    "position": "Senior .NET Engineer",
+    "location": "София",
+    "req": [
+      ".net",
+      "c#",
+      "sql",
+      "mongodb",
+      "nosql",
+      "kafka",
+      "python",
+      "docker"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8363181"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "HR Labs EOOD",
+    "position": "Engineer",
+    "location": "София",
+    "req": [
+      ".net",
+      "c#",
+      "sql",
+      "nosql",
+      "mongodb",
+      "linux",
+      "windows",
+      "python",
+      "docker",
+      "kubernetes",
+      "kafka"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8363175"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "HR Ethical Ltd.",
+    "position": "Mid/Senior BI Engineer",
+    "location": "София",
+    "req": [
+      "english",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8351271"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "TechPods JSC",
+    "position": "Data Engineer",
+    "location": "София",
+    "req": [
+      "azure",
+      "terraform",
+      "aws",
+      "gcp",
+      "sql",
+      "ansible",
+      "docker",
+      "kubernetes",
+      "python"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8361696"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SKILLWORK BG ltd",
+    "position": "AI Engineer",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "python",
+      "docker",
+      "kubernetes",
+      "aws"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8361361"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "О - Конект Премиум Груп ООД",
+    "position": "Developer",
+    "location": "София",
+    "req": [
+      "php",
+      "symfony",
+      "laravel",
+      "mysql",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8360754"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "emerchantpay ood",
+    "position": "Data Analytics Team Lead",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "sql",
+      "tableau",
+      "qlik",
+      "power bi",
+      "postgres",
+      "mysql",
+      "aws"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8360571"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "UpSkill Ltd.",
+    "position": "Senior Data Modeller",
+    "location": "София",
+    "req": [
+      "english",
+      "python",
+      "pandas",
+      "tableau",
+      "power bi"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8356769"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "BrightPoint Ltd.",
+    "position": "Data & Automation Engineer",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "python",
+      "sql",
+      "azure",
+      "aws",
+      "power bi",
+      "tableau"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8356737"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "IT IMPULSE EOOD",
+    "position": "Lead Data Engineer (Product)",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "sql",
+      "python",
+      "azure"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8356683"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Виберг проджектс ЕООД",
+    "position": "Developer",
+    "location": "София",
+    "req": [
+      "java",
+      "hibernate",
+      "spring"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8355520"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "NATEK Bulgaria LLC",
+    "position": "SAP FICO Support Consultant",
+    "location": "София",
+    "req": [
+      "sap",
+      "abap",
+      "jira"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8355249"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "РекрутиТалент ЕООД",
+    "position": "Data Engineer/ Forward Deployed Engineer",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "sql",
+      "sap",
+      "salesforce"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8353509"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Nordic Recruitment & Consulting EOOD",
+    "position": "Mainframe Developer (Cobol/EGL)",
+    "location": "София",
+    "req": [
+      "ibm db2",
+      "sql",
+      "jira",
+      "confluence"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8352545"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Associate IP BULGARIA",
+    "position": "Асистент на представител по индустриална собственост",
+    "location": "София",
+    "req": [
+      "english"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8352419"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Destination Workplace LTD",
+    "position": "Master Data Specialist",
+    "location": "София",
+    "req": [
+      "english",
+      "german",
+      "френски",
+      "италиански",
+      "испански",
+      "sap"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8352156"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Кодери AД",
+    "position": "Senior Data Engineer/Architects",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "python",
+      "sql",
+      "nosql",
+      "aws",
+      "gcp",
+      "azure",
+      "kafka",
+      "tableau",
+      "power bi"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8349551"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Hewlett Packard Enterprise CDS Bulgaria EOOD",
+    "position": "Data Analyst",
+    "location": "София",
+    "req": [
+      "english",
+      "power bi",
+      "excel",
+      "qlik",
+      "salesforce"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8348432"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SKILLWORK BG ltd",
+    "position": "Senior Data Analyst – Data Delivery Lead",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "sql",
+      "excel",
+      "vba"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8347805"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "emerchantpay ood",
+    "position": "Data Engineer",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "sql",
+      "excel",
+      "python",
+      "mysql",
+      "postgres",
+      "tableau",
+      "qlik",
+      "power bi",
+      "aws"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8347388"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SKILLWORK BG ltd",
+    "position": "Mid/Senior Data Analyst – Data Product Ownership",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "sql",
+      "excel",
+      "vba",
+      "postgres",
+      "ms sql",
+      "tableau"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8345997"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SKILLWORK BG ltd",
+    "position": "Data Analyst - SQL & Python",
+    "location": "Fully Remote",
+    "req": [
+      "english",
+      "sql",
+      "python",
+      "tableau",
+      "power bi",
+      "jira"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8346284"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Talent Hunter Ltd.",
+    "position": "Database Administrator/ Engineer",
+    "location": "София",
+    "req": [
+      "oracle database",
+      "sql",
+      "mongodb",
+      "nosql",
+      "azure"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8345061"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Talent Hunter Ltd.",
+    "position": "Goland Developer",
+    "location": "Fully Remote",
+    "req": [
+      "golang",
+      "kubernetes"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8345047"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "BIC Services Sofia EOOD",
+    "position": "language Associate, Order to Invoice with German",
+    "location": "София",
+    "req": [
+      "excel"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8371018"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ЕПАМ Системс България ЕООД",
+    "position": "language Python Engineer with MLE",
+    "location": "Fully Remote",
+    "req": [
+      "python",
+      "java"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8318081"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ЕПАМ Системс България ЕООД",
+    "position": "language Data Engineer with Python",
+    "location": "София",
+    "req": [
+      "python",
+      "nosql",
+      "sap",
+      "jenkins",
+      "azure"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8318054"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ЕПАМ Системс България ЕООД",
+    "position": "language Presales Solution Consultant – Data and AI",
+    "location": "Fully Remote",
+    "req": [
+      "aws",
+      "azure",
+      "gcp",
+      "power bi",
+      "tableau"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8318080"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SAP Labs Bulgaria Ltd.",
+    "position": "language Associate AI Platform Engineer",
+    "location": "София",
+    "req": [
+      "python",
+      "sap",
+      "azure",
+      "spark"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8367134"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SAP Labs Bulgaria Ltd.",
+    "position": "language AI Engineer - Data Management",
+    "location": "София",
+    "req": [
+      "java",
+      "python",
+      "aws",
+      "gcp",
+      "azure",
+      "sap",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8334869"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ЕПАМ Системс България ЕООД",
+    "position": "language Lead Data Engineer",
+    "location": "София",
+    "req": [
+      "azure",
+      "python",
+      "nosql",
+      "jenkins",
+      "java",
+      "sql",
+      "scala",
+      "sap"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8318068"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ЕПАМ Системс България ЕООД",
+    "position": "language Regular Data Engineer",
+    "location": "София",
+    "req": [
+      "python",
+      "azure",
+      "nosql",
+      "java",
+      "sql",
+      "scala",
+      "sap",
+      "jenkins"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8318046"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ЕПАМ Системс България ЕООД",
+    "position": "language Senior Data Engineer with Python",
+    "location": "София",
+    "req": [
+      "python",
+      "azure",
+      "nosql",
+      "sap",
+      "jenkins"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8318083"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SAP Labs Bulgaria Ltd.",
+    "position": "language AI Data Scientist",
+    "location": "София",
+    "req": [
+      "python",
+      "sql",
+      "sap",
+      "pandas",
+      "matplotlib"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8334866"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SAP Labs Bulgaria Ltd.",
+    "position": "language Senior Python Developer / Senior AI Engineer",
+    "location": "София",
+    "req": [
+      "python",
+      "sap",
+      "flask",
+      "django",
+      "aws",
+      "azure",
+      "gcp",
+      "docker",
+      "scala"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8341944"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ЕПАМ Системс България ЕООД",
+    "position": "language Data Engineer",
+    "location": "Fully Remote",
+    "req": [
+      "python",
+      "azure",
+      "nosql",
+      "jenkins",
+      "java",
+      "sql",
+      "scala",
+      "sap"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8332856"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ЕПАМ Системс България ЕООД",
+    "position": "language Senior Data Engineer",
+    "location": "София",
+    "req": [
+      "python",
+      "azure",
+      "nosql",
+      "jenkins",
+      "java",
+      "sql",
+      "scala",
+      "sap"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8318057"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SAP Labs Bulgaria Ltd.",
+    "position": "language AI Data Scientist Expert for Data Management",
+    "location": "София",
+    "req": [
+      "python",
+      "sap",
+      "pandas",
+      "tensorflow",
+      "pytorch",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8334867"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "TechPods JSC",
+    "position": "language Senior Data Analyst",
+    "location": "София",
+    "req": [
+      "sql",
+      "postgres",
+      "excel",
+      "power bi",
+      "tableau",
+      "python"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8364676"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "EXPERIAN BULGARIA EAD",
+    "position": "language Data Analyst",
+    "location": "София",
+    "req": [
+      "python",
+      "tableau",
+      "power bi",
+      "spark"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8362214"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "СОФТСЪРВ БЪЛГАРИЯ ЕООД",
+    "position": "language Senior DW/BI Engineer (Tableau)",
+    "location": "Fully Remote",
+    "req": [
+      "tableau",
+      "sql",
+      "aws",
+      "python",
+      "figma",
+      "adobe xd",
+      "creative cloud"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8360252"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Пвртиймс България ЕООД",
+    "position": "language Data Solutions Engineer",
+    "location": "София",
+    "req": [
+      "sql",
+      "tableau"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8355870"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "СТАНГА АД",
+    "position": "language Senior C/C++ Database Engine Engineer (PostgreSQL Internals)",
+    "location": "Fully Remote",
+    "req": [
+      "c",
+      "c++",
+      "postgres",
+      "sql",
+      "mysql",
+      "linux"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8353215"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ен Ди Ес ЕООД",
+    "position": "language Senior Data Analyst",
+    "location": "София",
+    "req": [
+      "tableau",
+      "sql",
+      "python"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8350813"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "СТАНГА АД",
+    "position": "language Senior Database Query Processing Engineer",
+    "location": "Fully Remote",
+    "req": [
+      "sql",
+      "postgres"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8350799"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SAP Labs Bulgaria Ltd.",
+    "position": "language AI Compliance Governance Expert",
+    "location": "София",
+    "req": [
+      "sap"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8345431"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "EXPERIAN BULGARIA EAD",
+    "position": "language Senior Data Engineer",
+    "location": "София",
+    "req": [
+      "sql",
+      "aws",
+      "python"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8334863"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "EXPERIAN BULGARIA EAD",
+    "position": "language Senior Data Scientist",
+    "location": "София",
+    "req": [
+      "python",
+      "pytorch",
+      "keras",
+      "tensorflow",
+      "pandas",
+      "spark",
+      "hadoop",
+      "nosql",
+      "hive",
+      "mongodb",
+      "cassandra"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8332862"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "EXPERIAN BULGARIA EAD",
+    "position": "language Machine Learning Scientist",
+    "location": "София",
+    "req": [
+      "python",
+      "aws",
+      "spark"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8327767"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "EXPERIAN BULGARIA EAD",
+    "position": "language Data Scientist - Experian Software Solutions",
+    "location": "София",
+    "req": [
+      "python",
+      "pytorch",
+      "keras",
+      "tensorflow",
+      "pandas",
+      "spark",
+      "hadoop",
+      "nosql",
+      "hive",
+      "mongodb",
+      "cassandra"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8327768"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "OFFICERND OOD",
+    "position": "language Data Analytics Engineer",
+    "location": "София",
+    "req": [
+      "sql",
+      "python"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8325585"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SAP Labs Bulgaria Ltd.",
+    "position": "language Product Expert - AI Agents for Data Management",
+    "location": "София",
+    "req": [
+      "jira",
+      "sap"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8323508"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "EXPERIAN BULGARIA EAD",
+    "position": "language Junior Data Engineer",
+    "location": "София",
+    "req": [
+      "aws",
+      "sql",
+      "scala",
+      "tableau",
+      "power bi"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8321746"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ен Ди Ес ЕООД",
+    "position": "language Senior Marketing Analyst",
+    "location": "София",
+    "req": [
+      "tableau",
+      "sql",
+      "python"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8315705"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "EXPERIAN BULGARIA EAD",
+    "position": "language Junior Data Analyst",
+    "location": "София",
+    "req": [
+      "python",
+      "tableau",
+      "power bi",
+      "vba",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8311610"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "OFFICERND OOD",
+    "position": "language Data Engineer",
+    "location": "София",
+    "req": [
+      "sql",
+      "python"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8309636"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "EXPERIAN BULGARIA EAD",
+    "position": "language Digital Data Analyst - Platform Strategy",
+    "location": "София",
+    "req": [
+      "power bi",
+      "tableau",
+      "sql",
+      "python"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8299876"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ендава ЕООД",
+    "position": "language Software Architect (Data & AI)",
+    "location": "София",
+    "req": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8294753"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ендава ЕООД",
+    "position": "language Data Consultant",
+    "location": "София",
+    "req": [
+      "python",
+      "aws",
+      "azure",
+      "pandas",
+      "sql"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8294754"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "EXPERIAN BULGARIA EAD",
+    "position": "language Senior Data Analytics Engineer",
+    "location": "София",
+    "req": [
+      "python",
+      "aws",
+      "sql",
+      "pandas",
+      "azure",
+      "terraform"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8285550"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "ИНФОРМАЦИОННО ОБСЛУЖВАНЕ АД",
+    "position": "language Data analyst (M/F)",
+    "location": "София",
+    "req": [
+      "sql",
+      "power bi",
+      "tableau",
+      "nosql",
+      "python"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8281768"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "EXPERIAN BULGARIA EAD",
+    "position": "language Data Scientist",
+    "location": "София",
+    "req": [
+      "python",
+      "c",
+      "c++",
+      "tableau",
+      "power bi"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8244607"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Прогрес Софтуер ЕАД",
+    "position": "language Senior AI Backend Engineer",
+    "location": "София",
+    "req": [
+      ".net",
+      "docker",
+      "aws",
+      "terraform",
+      "golang",
+      "python",
+      "typescript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8243191"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SAP Labs Bulgaria Ltd.",
+    "position": "language AI Software Developer",
+    "location": "София",
+    "req": [
+      "python",
+      "flask",
+      "django",
+      "jenkins",
+      "azure",
+      "aws",
+      "gcp",
+      "scala",
+      "sap",
+      "docker",
+      "kubernetes",
+      "linux"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8235473"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "SAP Labs Bulgaria Ltd.",
+    "position": "language AI Engineer",
+    "location": "София",
+    "req": [
+      "python",
+      "flask",
+      "django",
+      "jenkins",
+      "azure",
+      "aws",
+      "gcp",
+      "scala",
+      "sap",
+      "docker",
+      "kubernetes",
+      "linux"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8233852"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "EXPERIAN BULGARIA EAD",
+    "position": "language Senior Data Modeller",
+    "location": "София",
+    "req": [
+      "python",
+      "pandas",
+      "tableau",
+      "power bi"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8218207"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "DEVRIX EOOD",
+    "position": "language Data Engineer",
+    "location": "София",
+    "req": [
+      "python",
+      "sql",
+      "excel",
+      "tableau",
+      "gcp",
+      "aws",
+      "azure",
+      "terraform",
+      "salesforce",
+      "javascript"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8210819"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "DEVRIX EOOD",
+    "position": "language Senior Engineering Manager",
+    "location": "София",
+    "req": [
+      "aws",
+      "c",
+      "c++",
+      "wordpress"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8210817"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "EXPERIAN BULGARIA EAD",
+    "position": "language Senior Data Scientist (AI focus)",
+    "location": "София",
+    "req": [
+      "python",
+      "pytorch",
+      "spark",
+      "aws"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/8207346"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "DEVRIX EOOD",
+    "position": "language Data Analyst",
+    "location": "София",
+    "req": [
+      "sql",
+      "html",
+      "css",
+      "wordpress"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/6469149"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ен Ди Ес ЕООД",
+    "position": "language Senior Data Scientist",
+    "location": "София",
+    "req": [
+      "sql",
+      "python",
+      "tableau",
+      "aws"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/5985838"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Blankfactor Bulgaria EOOD",
+    "position": "language Senior Data Engineer",
+    "location": "София",
+    "req": [
+      "aws",
+      "kafka",
+      "spark",
+      "terraform",
+      "python",
+      "sql",
+      "gcp",
+      "azure",
+      "docker"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/7908571"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "emerchantpay ood",
+    "position": "language Data Engineer",
+    "location": "София",
+    "req": [
+      "sql",
+      "excel",
+      "python",
+      "mysql",
+      "postgres",
+      "tableau",
+      "qlik",
+      "power bi",
+      "aws"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/6036358"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ен Ди Ес ЕООД",
+    "position": "language Senior Data Engineer",
+    "location": "София",
+    "req": [
+      "sql",
+      "nosql",
+      "mysql",
+      "mariadb",
+      "mongodb",
+      "python",
+      "aws"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/6581170"
+  },
+  {
+    "category": "Software Development",
+    "companyName": "Ен Ди Ес ЕООД",
+    "position": "language Senior Java Developer",
+    "location": "София",
+    "req": [
+      "java",
+      "kafka",
+      "aws",
+      "spring",
+      "azure",
+      "gcp",
+      "postgres",
+      "sql",
+      "mysql",
+      "mongodb",
+      "nosql",
+      "redis",
+      "rabbitmq",
+      "terraform",
+      "kubernetes",
+      "php",
+      "python",
+      "javascript",
+      "node"
+    ],
+    "date": "Today",
+    "url": "https://www.jobs.bg/job/6179548"
+  }
+]
