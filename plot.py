@@ -13,8 +13,59 @@ OUTPUT_FOLDER_ALL = "./plots"
 OUTPUT_FOLDER_BY_CATEGORY = "./plots_by_category"
 IGNORE_SKILLS = {"english"}
 
+CATEGORY_MAP = {
+    "backend": "back_end_development",
+    "frontend": "front_end_development",
+    "fullstack": "full_stack_development",
+    "web": "full_stack_development",
+
+    "mobile": "mobile_development",
+    "desktop": "front_end_development",
+    "embeded": "hardware_and_engineering",
+    "hardware": "hardware_and_engineering",
+
+    "data_science": "data_science",
+    "data_analysist": "data_science",
+
+    "bi_erp_crm": "erp_crm_development",
+    "pm_po_ba": "pm_ba_and_more",
+
+    "devops": "operations",
+    "sysadmin": "operations",
+    "network_admin": "operations",
+    "cloud": "operations",
+
+    "qa": "quality_assurance",
+    "tech_support": "technical_support",
+    "customer_support": "customer_support",
+
+    "ui_ux": "ui_ux_and_arts",
+
+    "sales": "pm_ba_and_more",
+    "marketing": "pm_ba_and_more",
+
+    "security": "operations",
+}
+
 # Use a professional, clean style
 plt.style.use('seaborn-v0_8-whitegrid')
+
+
+def normalize_text(text: str) -> str:
+    if not text:
+        return "Unknown"
+    return text.strip().lower().title()
+
+def normalize_category(cat: str) -> str:
+    if not cat:
+        return "Unknown"
+
+    cat = cat.strip().lower().replace(".json", "")
+
+    # Apply mapping if exists
+    cat = CATEGORY_MAP.get(cat, cat)
+
+    return cat.title()
 
 # -----------------------
 # Helper Functions
@@ -37,16 +88,41 @@ def clean_location(raw_location: str) -> str:
 
     return "Other"
 
-def load_all_data(folder):
+def load_all_data(folder, apply_mapping=False):
     all_jobs = []
+
     if not os.path.exists(folder):
         print(f"Directory {folder} not found.")
         return []
+
     for file in os.listdir(folder):
         if file.endswith(".json"):
+            category_from_filename = file.replace(".json", "")
+
             with open(os.path.join(folder, file), "r", encoding="utf-8") as f:
                 data = json.load(f)
-                all_jobs.extend(data)
+
+                for job in data:
+                    job = dict(job)  # avoid mutating original
+
+                    # Normalize category
+                    if apply_mapping:
+                        job["category"] = normalize_category(category_from_filename)
+                    else:
+                        job["category"] = normalize_text(category_from_filename)
+
+                    # Normalize skills
+                    job["req"] = [
+                        normalize_text(skill)
+                        for skill in job.get("req", [])
+                        if skill.lower() not in IGNORE_SKILLS
+                    ]
+
+                    # Normalize location string (before clean_location)
+                    job["location"] = normalize_text(job.get("location", ""))
+
+                    all_jobs.append(job)
+
     return all_jobs
 
 def plot_bar(counter, title, top_n=10, output_folder="./plots"):
@@ -85,19 +161,11 @@ def plot_bar(counter, title, top_n=10, output_folder="./plots"):
     for i, bar in enumerate(bars):
         width = bar.get_width()
 
-        # Calculate % difference from the bar above it
-        diff_text = ""
-        if i > 0:
-            prev_width = bars[i-1].get_width()
-            if prev_width > 0:
-                diff = ((width - prev_width) / prev_width) * 100
-                # Show percentage drop (e.g., -15.4%)
-                diff_text = f" ({diff:+.1f}%)"
 
         # Position text slightly to the right of the bar
         ax.text(width + (max_val * 0.01),
                 bar.get_y() + bar.get_height()/2,
-                f'{int(width)}{diff_text}',
+                f'{int(width)}',
                 va='center',
                 ha='left',
                 fontsize=11,
@@ -119,7 +187,10 @@ def plot_bar(counter, title, top_n=10, output_folder="./plots"):
 # Main Script
 # -----------------------
 def main():
-    jobs = load_all_data(DATA_FOLDER)
+    jobs_1 = load_all_data(DATA_FOLDER, apply_mapping=True)   # old dataset → mapped
+    jobs_2 = load_all_data("./data_2", apply_mapping=False)   # already refined
+
+    jobs = jobs_1 + jobs_2
     if not jobs:
         return
 
@@ -129,7 +200,7 @@ def main():
     skills_by_category = {}
 
     for job in jobs:
-        category = job.get("category", "Unknown")
+        category = normalize_category(job.get("category", "Unknown"))
 
         # Process skills
         for skill in job.get("req", []):
