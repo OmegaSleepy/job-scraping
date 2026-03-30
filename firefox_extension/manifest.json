@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "Auto Extract & Remove",
+  "version": "1.0",
+  "description": "Extract specific HTML elements, save their data, and remove them from the page.",
+
+  "permissions": [
+    "storage",
+    "activeTab",
+    "<all_urls>",
+    "downloads"
+  ],
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "browser_action": {
+    "default_title": "Run Extractor"
+  },
+  
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
