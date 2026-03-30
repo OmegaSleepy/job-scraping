@@ -135,16 +135,19 @@ def plot_bar(counter, title, top_n=10, output_folder="./plots"):
 
     labels, values = zip(*items)
 
+    # 1. Calculate the total sum from the entire counter
+    total_count = sum(counter.values())
+
     # Create figure
     fig, ax = plt.subplots(figsize=(12, 8))
 
     # Create a nice color gradient from dark blue to light blue
-    colors = plt.cm.Blues(np.linspace(0.8, 0.4, len(values)))
+    colors = plt.cm.Greens(np.linspace(0.8, 0.4, len(values)))
 
     bars = ax.barh(labels, values, color=colors, edgecolor='white', linewidth=1)
 
     # Titles and labels
-    ax.set_title(title.title(), fontsize=18, fontweight='bold', pad=25, color='#2c3e50')
+    ax.set_title(title.title().replace("_"," "), fontsize=18, fontweight='bold', pad=25, color='#2c3e50')
     ax.set_xlabel("Frequency (Count)", fontsize=12, labelpad=10, fontweight='semibold')
     ax.invert_yaxis()  # Put the highest value at the top
 
@@ -156,11 +159,10 @@ def plot_bar(counter, title, top_n=10, output_folder="./plots"):
     ax.xaxis.grid(True, linestyle='--', alpha=0.6)
     ax.set_axisbelow(True)
 
-    # Calculate and add labels + percentage differences
+    # Calculate and add labels
     max_val = max(values)
     for i, bar in enumerate(bars):
         width = bar.get_width()
-
 
         # Position text slightly to the right of the bar
         ax.text(width + (max_val * 0.01),
@@ -172,10 +174,20 @@ def plot_bar(counter, title, top_n=10, output_folder="./plots"):
                 fontweight='bold',
                 color='#34495e')
 
-    plt.tight_layout()
+    # 2. Add the "Total" figure in the bottom left of the entire figure
+    # (0.02, 0.02) are normalized coordinates (0=left/bottom, 1=right/top)
+    fig.text(0.02, 0.02, f"Total : {total_count:,}",
+             fontsize=13,
+             fontweight='bold',
+             color='#2c3e50',
+             ha='left',
+             va='bottom')
+
+    # 3. Use rect to ensure tight_layout leaves a 5% margin at the bottom for our text
+    plt.tight_layout(rect=[0, 0.05, 1, 1])
 
     os.makedirs(output_folder, exist_ok=True)
-    # Sanitize filename (remove characters that might break file paths)
+    # Sanitize filename
     safe_title = title.replace(' ', '_').replace('/', '_').replace('-', '_')
     filename = os.path.join(output_folder, f"{safe_title}.png")
 
